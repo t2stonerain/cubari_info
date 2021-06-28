@@ -1,17 +1,17 @@
 {
-  "title": "The Dragon, the Hero, and the Courier",
-  "description": "JRPG-esque fantasy with a side of bureaucracy and historical trivia, starring Yoshida the Short Tempered, a half-elf courier working for the Post Office at the Imperial City of Idazig.",
-  "artist": "Gregorius Yamada",
-  "author": "Gregorius Yamada",
-  "cover": "https://uploads.mangadex.org/covers/fd604f6e-a784-4c6b-ab00-565a996c33f8/627afadb-348b-4c63-9d25-7917ae4b85be.jpg",
-  "chapters": {
-    "26": {
-      "title": "The Mages, the Hustle, and the Master of the Way",
-      "volume": "4",
-      "groups": {
-        "Shigure Scans": "/proxy/api/imgur/chapter/X4m3EFa/"
-      },
-      "last_updated": "1616368746"
-    },
-  }
+   "title":"The Dragon, the Hero, and the Courier",
+   "description":"JRPG-esque fantasy with a side of bureaucracy and historical trivia, starring Yoshida the Short Tempered, a half-elf courier working for the Post Office at the Imperial City of Idazig.",
+   "artist":"Gregorius Yamada",
+   "author":"Gregorius Yamada",
+   "cover":"https://uploads.mangadex.org/covers/fd604f6e-a784-4c6b-ab00-565a996c33f8/627afadb-348b-4c63-9d25-7917ae4b85be.jpg",
+   "chapters":{
+      "26":{
+         "title":"The Mages, the Hustle, and the Master of the Way",
+         "volume":"4",
+         "groups":{
+            "Shigure Scans":"/proxy/api/imgur/chapter/X4m3EFa/"
+         },
+         "last_updated":"1624844724"
+      }
+   }
 }
